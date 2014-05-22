@@ -1,0 +1,25 @@
+{
+	"name": "Basetheme",
+	"version": "0.0.0",
+	"description": "Gulp dependencies for WordPress theme",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@thinkoomph.git.beanstalkapp.com:/thinkoomph/oomph-wp-base-theme.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"gulp": "^3.6.2",
+		"gulp-autoprefixer": "0.0.7",
+		"gulp-compass": "^1.1.9",
+		"gulp-concat": "^2.2.0",
+		"gulp-pixrem": "^0.1.1",
+		"gulp-ruby-sass": "^0.5.0",
+		"gulp-uglify": "^0.3.0",
+		"gulp-watch": "^0.6.4"
+	}
+}
